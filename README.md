@@ -1,7 +1,7 @@
 # large dictionary for geographical classification of news in Russian
 # current version: 11 527 entries
 
-How it was created:
+How was it created?
 
 1) for each country, the names of the major cities and regions were downloaded from Wikipedia
 2) all the words were stemmed with Porter Stemmer
