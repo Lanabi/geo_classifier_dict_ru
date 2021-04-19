@@ -1,7 +1,7 @@
 # large dictionary for geographical classification of news in Russian
 # current version: 11 527 entries
 
-·for each country, the names of the major cities and regions were scraped from RussianWikipedia;
+·for each country, the names of the major cities and regions were scraped from Russian Wikipedia;
 ·all the words were stemmed using the Porter Stemmer;
 ·entries with the initial length of greater or equal to 6 symbols were concatenated with “*”;
 ·entries with the initial length of less than 6 symbols were concatenated with “*” or “?”manually depending on the word’s part of speech;
